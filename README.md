@@ -1,7 +1,7 @@
 ``` html
                                              <h1> Hello world! </h1>
 ```
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp; About me
 
 - 💻 My area of work is diversified into various domains, which mainly include **Full-stack web development**, **Artificial Intelligence**, **Deep Learning** and solving crunch **data structures and algorithm** problems. 
 
@@ -15,11 +15,11 @@
 
 - 📫 You can reach me at **omsurase2129@gmail.com**
 
-- ⚡ Outside tech, I am an avid reader
+- ⚡ Outside tech, I am an avid reader  
 
-# 💻 Tech Stack:
+
+# 📜 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) 
@@ -50,7 +50,7 @@
  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
-## 🔗 [Contact Me]
+## 🔗 Contact Me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-surase-765314222/)
 <a href="omsurase2129@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -62,12 +62,11 @@
 
 <details>
    <summary><b>🏆 Github Trophies</b></summary>
-<br>
+
 ![](https://github-profile-trophy.vercel.app/?username=omsurase&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </details>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=omsurase&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <details>
  <summary><b>😂 Random Dev Meme</b></summary>
